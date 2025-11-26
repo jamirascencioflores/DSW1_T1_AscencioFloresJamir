@@ -3,7 +3,7 @@
 **Alumno:** Jamir Ascencio Flores
 **Curso:** Desarrollo de Servicios Web I
 **Sección:** T5GO
-**ID Estudiante:** [COLOCA_AQUI_TU_CODIGO]
+**ID Estudiante:** I202412703
 
 ## 📋 Descripción del Proyecto
 API RESTful desarrollada con **ASP.NET Core** y **Entity Framework Core (Code First)** utilizando **MySQL**. El proyecto implementa la gestión de Cursos y Niveles Académicos, aplicando el **Patrón Repositorio** y cumpliendo con los requisitos de filtrado, paginación y CRUD.
