@@ -1,0 +1,6 @@
+@DSW1_T1_AscencioFloresJamir_HostAddress = http://localhost:5053
+
+GET {{DSW1_T1_AscencioFloresJamir_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
